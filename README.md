@@ -9,7 +9,7 @@ It's easy to unblock Twitter in your country if it's not blocked from IP.
 
 ### Windows
 
-Follow [this link][1] to edit your `hosts` file and paste the contents of [hosts][/hosts] file in this repository.
+Follow [this link][1] to edit your `hosts` file and paste the contents of [hosts](/hosts) file in this repository.
 
 Open `cmd` and write this:
 
